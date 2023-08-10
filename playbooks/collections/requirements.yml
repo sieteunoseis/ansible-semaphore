@@ -1,5 +1,3 @@
 ---
 collections:
-  - arista.eos
   - cisco.ios
-  - vyos.vyos
