@@ -1,4 +1,4 @@
 ---
 collections:
-  - ansible.netcommon
+  - arista.eos
   - cisco.ios
