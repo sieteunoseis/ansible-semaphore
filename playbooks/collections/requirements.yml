@@ -1,1 +1,4 @@
-cisco.ios
+---
+collections:
+  - ansible.netcommon
+  - cisco.ios
